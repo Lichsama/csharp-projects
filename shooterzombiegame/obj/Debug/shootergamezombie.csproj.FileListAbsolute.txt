@@ -9,3 +9,6 @@ C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shooter
 C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.exe
 C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.pdb
+C:\Users\skrll\OneDrive\Masaüstü\Github\csharp-projects\shooterzombiegame\obj\Debug\shootergamezombie.csproj.AssemblyReference.cache
+C:\Users\skrll\OneDrive\Masaüstü\Github\csharp-projects\shooterzombiegame\obj\Debug\shootergamezombie.exe
+C:\Users\skrll\OneDrive\Masaüstü\Github\csharp-projects\shooterzombiegame\obj\Debug\shootergamezombie.pdb
